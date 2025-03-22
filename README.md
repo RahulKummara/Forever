@@ -1,6 +1,6 @@
-## Forever - Ecommerce Website
+# Forever - Ecommerce Website
 
-# Usage
+## Usage
 - Clone the repository
   ```
   git clone https://github.com/RahulKummara/Forever.git
@@ -10,7 +10,7 @@
   npm install
   ```
 - Run the app locally
-- ```
+ ```
   npm run dev
   ```
 
